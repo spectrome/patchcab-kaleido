@@ -1,6 +1,6 @@
 # Kaleido
 
-<img src="./modules/Kaleido.png" alt="Kaleido" width="288" height="380" />
+<img src="./modules/kaleido.png" alt="Kaleido" width="288" height="380" />
 
 A [Patchcab](https://github.com/spectrome/patchcab) module generating fractal style video output that reacts to audio input.
 
